@@ -34,12 +34,56 @@
                 </div>
                 <div class="login-form">
                     <form id="f1" runat="server">
-                        
+                        <div class="form-group">
+                            <label>First Name</label>                           
+                            <asp:TextBox ID="firstname" runat="server" class="form-control" placeholder="First Name"  ></asp:TextBox>
+                        </div>
+                        <div class="form-group">
+                            <label>Last Name</label>
+                            <asp:TextBox ID="lastname" runat="server" class="form-control" placeholder="Last Name"  ></asp:TextBox>
+                        </div>
+                        <div class="form-group">
+                            <label>Enrollment Number</label>
+                            <asp:TextBox ID="enrollmentno" runat="server" class="form-control" placeholder="Enrollment Number"  ></asp:TextBox>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Username</label>
+                            <asp:TextBox ID="username" runat="server" class="form-control" placeholder="Username"  ></asp:TextBox>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Password</label>
+                            <asp:TextBox ID="password" runat="server" class="form-control" placeholder="Password" TextMode="Password"  ></asp:TextBox>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Email</label>
+                            <asp:TextBox ID="email" runat="server" class="form-control" placeholder="Email"  ></asp:TextBox>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Contact</label>
+                            <asp:TextBox ID="contact" runat="server" class="form-control" placeholder="Contact"  ></asp:TextBox>
+                        </div>
+
+                        <div class="form-group">
+                            <label>Student Image</label>
+                            <asp:FileUpload ID="fo1" runat="server" />
+                        </div>
+
+                        <asp:Button ID="b1" runat="server"  class="btn btn-primary btn-flat m-b-30 m-t-30" Text="Register Now" OnClick="b1_Click"/>
+
                     </form>
                 </div>
             </div>
         </div>
     </div>
-
+    
+    <script src="assets/js/vendor/jquery-2.1.4.min.js"></script>
+    <script src="assets/js/popper.min.js"></script>
+    <script src="assets/js/plugins.js"></script>
+    <script src="assets/js/main.js"></script>
+    
 </body>
 </html>
