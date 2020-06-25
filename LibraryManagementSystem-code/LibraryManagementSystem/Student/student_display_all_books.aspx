@@ -22,6 +22,18 @@
                                 </tr>
                             </thead>
                     </HeaderTemplate>
+                         <ItemTemplate>
+                        <tr>
+                            <td><img src="../Librarian/<%# Eval("books_image") %>" height="100" width="100" /></td>
+                            <td><%# Eval("books_title") %></td>
+                            <td><%# Eval("books_pdf") %><br /><%#checkPdf(Eval("books_pdf"),Eval("id")) %></td>
+                            <td><video src="../Librarian/<%# Eval("books_video") %>" height="100" width="100" /><br /><%#checkvideo(Eval("books_video"),Eval("id")) %></td>
+                            <td><%# Eval("books_author_name") %></td>
+                            <td><%# Eval("books_isbn") %></td>
+                            <td><%# Eval("available_qty") %></td>    
+                        </tr>
+
+                    </ItemTemplate>
                     <FooterTemplate>
                         </tbody>
                         </table>
