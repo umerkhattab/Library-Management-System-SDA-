@@ -1,0 +1,99 @@
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\ApplicationInsights.config
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+c:\users\muhammad\documents\visual studio 2015\Projects\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\ApplicationInsights.config
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
+C:\Users\Amir Sohail\Desktop\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\ApplicationInsights.config
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\csc.exe
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Collections.Immutable.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\System.Reflection.Metadata.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\vbc.exe
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\roslyn\VBCSCompiler.exe.config
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll.config
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\LibraryManagementSystem.pdb
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Agent.Intercept.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.DependencyCollector.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.Web.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.AI.WindowsServer.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.ApplicationInsights.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.csprojResolveAssemblyReference.cache
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.dll
+D:\BSE\4th Semester\OOSE\project\LibraryManagementSystem\LibraryManagementSystem\LibraryManagementSystem\obj\Debug\LibraryManagementSystem.pdb
