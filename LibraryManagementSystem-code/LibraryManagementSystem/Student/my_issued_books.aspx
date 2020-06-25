@@ -27,6 +27,21 @@
                         <th>Penalty(Rupees)</th>
                     </tr>
             </HeaderTemplate>
+                 <ItemTemplate>
+                <tr>
+
+                    <td><%#Eval("student_enrollment_no")%></td>
+                    <td><%#Eval("books_isbn")%></td>
+                    <td><%#Eval("books_issue_date")%></td>
+                    <td><%#Eval("books_approx_return_date")%></td>
+                    <td><%#Eval("student_username")%></td>
+                    <td><%#Eval("is_books_returned")%></td>
+                    <td><%#Eval("books_return_date")%></td>
+                    <td><%#Eval("latedays")%></td>
+                    <td><%#Eval("Penalty")%></td>
+
+                </tr>
+            </ItemTemplate>
             <FooterTemplate>
                 </table>
             </FooterTemplate>
